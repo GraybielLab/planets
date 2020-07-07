@@ -1,2 +1,4 @@
 Day 1: Mission starting
 Day 2: Two moons make gravity measuring challenging
+Day 3: Weather forecast uncertain
+Day 4: Warmer than expected
