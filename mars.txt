@@ -1,3 +1,4 @@
 Red is my favorite color
 This is collaborator 1 speaking
-This is original creator modifying
+
+This is a conflict resolved with a new verson altogether
